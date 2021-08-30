@@ -1,0 +1,71 @@
+.main-profile {
+    background: url('https://wallpaperaccess.com/full/1625467.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #222f3e;
+    margin: 0;
+    min-height: 100vh;
+    padding-top: 120px;
+    white-space: pre-wrap;
+    padding-bottom: 50px;
+}
+
+.navbar-profile {
+    position: fixed;
+    height: auto;
+    top: 0;
+    width: 100vw;
+    background: #FFF;
+    box-shadow: 1px 0px 10px rgba(55, 55, 55, 0.1);
+    font-size: 17px;
+    color: #555555;
+    padding: 18px;
+    padding-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lightText-profile {
+    color: #F22222;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+}
+
+.profile-container {
+    width: 320px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-left: auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-right: auto;
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 0px 10px rgba(55, 55, 55, 0.1);
+}
+
+.Post-Profile {
+    margin-top: 6px;
+    padding: 5px;
+    width: auto;
+    color: #FFF;
+    background-color: #ee5253;
+    outline: none;
+    font-weight: 900;
+    font-size: 15px;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.discussion-button {
+    background: 0;
+    font-size: 15px;
+    color: #0abde3;
+    margin-right: 20px;
+    margin-top: auto;
+    margin-bottom: auto
+}

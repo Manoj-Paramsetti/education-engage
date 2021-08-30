@@ -1,0 +1,31 @@
+.Main-Main {
+    white-space: pre-wrap;
+}
+
+.NavBar-Main {
+    position: fixed;
+    background-color: white;
+    box-shadow: 1px 1px 6px grey;
+    width: 100%;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Start-Main {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url('https://images.unsplash.com/photo-1581447109200-bf2769116351?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding-top: 20vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    color: white;
+}
+
+.StartName {
+    color: #FF5454;
+}
+
+.lightText {
+    color: #121212;
+}
